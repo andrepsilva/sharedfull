@@ -1,0 +1,2 @@
+# sharedfull
+sharedfull teste for 
